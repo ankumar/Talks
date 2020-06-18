@@ -7,4 +7,5 @@
 * [Software Architecture: A Mature Discipline?](https://www.youtube.com/watch?v=70kyGrjs8rU)
 * [GOTO 2020 • No Return: Beyond Transactions in Code and Life • Avdi Grimm](https://www.youtube.com/watch?v=R9FwIYAM1ao)
 * [DataOps in Practice - Lars Albertsson, Mimeria](https://www.youtube.com/watch?v=EdlY8x-1lOE)
+* [GOTO 2019 • Introduction to OpenAPI • Lorna Jane Mitchell](https://www.youtube.com/watch?v=s9u3mXQZbXI)
                 
