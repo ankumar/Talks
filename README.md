@@ -10,4 +10,5 @@
 * [GOTO 2019 • Introduction to OpenAPI • Lorna Jane Mitchell](https://www.youtube.com/watch?v=s9u3mXQZbXI)
 * [GOTO 2016 • Cluster Management at Google with Borg • John Wilkes](https://www.youtube.com/watch?v=0W49z8hVn0k)
 * [Mike Bostock - Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
+* [Jeff Dean: "Achieving Rapid Response Times in Large Online Services" Keynote - Velocity 2014](https://www.youtube.com/watch?v=1-3Ahy7Fxsc)
                 
