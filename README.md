@@ -1,4 +1,6 @@
 
+https://twitter.com/ashleymcnamara/status/1278537744352862208
+
 * [Spinnaker: Serializing Culture Into Continuous Delivery](https://www.youtube.com/watch?v=d_lFZtlM5KI)
 * [12-Factor Apps and the HashiStack](https://www.youtube.com/watch?v=gf43TcWjBrE)
 * [Kubernetes and the Path to Serverless](https://www.youtube.com/watch?&v=oNa3xK2GFKY)
