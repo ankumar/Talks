@@ -1,4 +1,14 @@
 
+Russ Ackoff Playlist
+
+* Concept of Systems - https://www.youtube.com/watch?v=EbLh7rZ3rhU / https://www.youtube.com/watch?v=O9TE9HWFo6U
+* Had Given a TED Talk - https://www.youtube.com/watch?v=OqEeIG8aPPk
+* Mechanistic to Systemic thinking - https://www.youtube.com/watch?v=yGN5DBpW93g
+* On Deming - https://www.youtube.com/watch?v=bu7JMAQggfo
+* Objectives & Omissions - https://www.youtube.com/watch?v=MzS5V5-0VsA
+* 1970s - https://www.youtube.com/watch?v=C3j6IChvsBE
+---
+
 https://twitter.com/ashleymcnamara/status/1278537744352862208
 
 * [Spinnaker: Serializing Culture Into Continuous Delivery](https://www.youtube.com/watch?v=d_lFZtlM5KI)
