@@ -7,6 +7,11 @@ Russ Ackoff Playlist
 * On Deming - https://www.youtube.com/watch?v=bu7JMAQggfo
 * Objectives & Omissions - https://www.youtube.com/watch?v=MzS5V5-0VsA
 * 1970s - https://www.youtube.com/watch?v=C3j6IChvsBE
+
+---
+
+* https://itrevolution.com/the-idealcast-podcast/
+
 ---
 
 https://twitter.com/ashleymcnamara/status/1278537744352862208
