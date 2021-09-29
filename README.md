@@ -31,3 +31,5 @@ https://twitter.com/ashleymcnamara/status/1278537744352862208
 * [On the Measure of Intelligence](https://www.youtube.com/watch?v=GpWLZUbPhr0)
 * [Jeff Dean: "Achieving Rapid Response Times in Large Online Services" Keynote - Velocity 2014](https://www.youtube.com/watch?v=1-3Ahy7Fxsc)
                 
+--
+* [Database Talks](https://db.cs.cmu.edu/seminar2021-dose2/)
