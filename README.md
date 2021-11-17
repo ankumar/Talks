@@ -1,6 +1,8 @@
 
 Russ Ackoff Playlist
 
+**“Performance of the system depends on how the parts fit, not how they act taken separately.”**
+
 * Concept of Systems - https://www.youtube.com/watch?v=EbLh7rZ3rhU / https://www.youtube.com/watch?v=O9TE9HWFo6U
 * Had Given a TED Talk - https://www.youtube.com/watch?v=OqEeIG8aPPk
 * Mechanistic to Systemic thinking - https://www.youtube.com/watch?v=yGN5DBpW93g
